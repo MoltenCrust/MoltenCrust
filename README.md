@@ -54,6 +54,7 @@ Here are some ideas to get you started:
    <img align="center" alt="Raspberry Pi" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
    <img align="center" alt="Arduino" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
    <img align="center" alt="Adobe Premiere Pro" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+   <img align="center" alt="Solidworks" width="50px" style="padding-right:10px;" src="https://icons8.com/icon/62397/solidworks" />
    <img align="center" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
    <br/>
 </div>
