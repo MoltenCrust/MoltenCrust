@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/moses-anthony-kwik-716559244" target="_blank">
-    <img alt="HTML" width="70px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" />
+    <img alt="HTML" width="70px" style="padding-right:200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" />
   </a>
   <a href="https://www.instagram.com/moses.kwik153/" target="_blank">
      <img alt="HTML" width="70px"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" />
