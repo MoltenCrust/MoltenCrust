@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![I am an IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Moses/) 
 
+---
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moses+Anthony+Kwik!;+IoT+&+Electrical+Engineering+Undergraduate;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moses" />
 </h1>
 
 # 🏄‍♂️ Tes
