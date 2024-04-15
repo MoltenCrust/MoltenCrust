@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">IoT & Electrical Engineering Undergraduate</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div align="left">
    <img src="https://komarev.com/ghpvc/?username=MoltenCrust&label=Profile%20views&color=0e75b6&style=flat" alt="MoltenCrust"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br/>
 
 <h2 align="center">🧰 Languages, Tools, and Skills</h2>
-<br/>
+
 <div align="center">
    <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img align="center" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
