@@ -16,13 +16,25 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Moses+Anthony+Kwik+😃;" />
 </h1>
+<br/>
 
 **`IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology`**
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a project**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS, Deep Learning**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+ </div>
+
+
 ---
-<h1 align="center">🧰 Languages, Tools, and Skills</h3>
+<h2 align="center">🧰 Languages, Tools, and Skills</h2>
 <br/>
 
 <div align="center">
@@ -42,8 +54,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
    <br/>
 </div>
 
-   <img align="center" alt="Linked-In" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-   <img align="center" alt="Instagram" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+<br/>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/moses-anthony-kwik-716559244" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/moses.kwik153/" target="_blank">
+     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" />
+  </a>
+</div>
+
+<br/>
+
 ---
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
