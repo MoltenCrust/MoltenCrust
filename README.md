@@ -18,20 +18,21 @@ Here are some ideas to get you started:
 </h1>
 <br/>
 
-**`IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology`**
+<div align="left">
+   **`IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology`**
 
-<div align="center">
- 
- 🔭 I’m currently working on **a project**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS, Deep Learning**
+   <img src="https://komarev.com/ghpvc/?username=MoltenCrust&label=Profile%20views&color=0e75b6&style=flat" alt="MoltenCrust"/>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+   🔭 I’m currently working on **a project**
+   
+   🌱 I’m currently learning **Deep Learning**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   📫 How to reach me: mosesanthonykwik@gmail.com
+</div>
 
- </div>
-
+<div align="right">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</div>
 
 ---
 <h2 align="center">🧰 Languages, Tools, and Skills</h2>
