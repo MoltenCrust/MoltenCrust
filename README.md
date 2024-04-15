@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 <br/>
 
-**IoT & Electrical Engineering Undergraduate**
+<h3 align="center">IoT & Electrical Engineering Undergraduate</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
