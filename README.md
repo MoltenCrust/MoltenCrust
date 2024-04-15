@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋, my name is Moses
-#### I am an IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology
 ![I am an IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Moses/) 
 # 🏄‍♂️ Tes
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
