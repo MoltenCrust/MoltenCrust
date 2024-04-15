@@ -19,25 +19,30 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="left">
-   **`IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology`**
-
    <img src="https://komarev.com/ghpvc/?username=MoltenCrust&label=Profile%20views&color=0e75b6&style=flat" alt="MoltenCrust"/>
 
-   🔭 I’m currently working on **a project**
+   - 🔭 I’m currently working on **a project**
    
-   🌱 I’m currently learning **Deep Learning**
+   - 🌱 I’m currently learning **Deep Learning**
 
-   📫 How to reach me: mosesanthonykwik@gmail.com
+   - 📫 How to reach me: mosesanthonykwik@gmail.com
 </div>
 
-<div align="right">
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/moses-anthony-kwik-716559244" target="_blank">
+    <img alt="HTML" width="70px" style="padding-right:200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/moses.kwik153/" target="_blank">
+     <img alt="HTML" width="70px"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" />
+  </a>
 </div>
 
----
-<h2 align="center">🧰 Languages, Tools, and Skills</h2>
 <br/>
 
+<h2 align="center">🧰 Languages, Tools, and Skills</h2>
+<br/>
 <div align="center">
    <img align="center" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img align="center" alt="Django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
@@ -57,18 +62,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/moses-anthony-kwik-716559244" target="_blank">
-    <img alt="HTML" width="70px" style="padding-right:200px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/moses.kwik153/" target="_blank">
-     <img alt="HTML" width="70px"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" />
-  </a>
-</div>
-
-<br/>
-
----
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
