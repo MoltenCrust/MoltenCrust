@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋, my name is Moses
+#### I am an IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology
+![I am an IoT & Electrical Engineering Undergraduate at Calvin Institute of Technology](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 # 🏄‍♂️ Tes
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
