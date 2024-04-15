@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 </div>
 
    <img align="center" alt="Linked-In" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-   <img align="center" alt="Instagram" width="50px" style="padding-right:10px;" src="https://icons8.com/icon/119026/instagram" />
+   <img align="center" alt="Instagram" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 ---
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
