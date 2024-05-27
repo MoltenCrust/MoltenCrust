@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    
    - 🌱 I’m currently learning **Deep Learning**
 
-   - 📫 How to reach me: mosesanthonykwik@gmail.com
+   - 📫 How to reach me: mkwik91@students.calvin.ac.id
 </div>
 
 <h3 align="left">Connect with me:</h3>
